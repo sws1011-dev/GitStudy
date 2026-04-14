@@ -5,12 +5,12 @@
 </div>
 
 ## 🚀 About Me
-이제 막 **게임 개발**의 첫발을 뗀 초보 개발자 심우석입니다.  
-시스템이 유기적으로 맞물려 돌아가는 **시뮬레이션 게임**의 매력에 빠져 개발을 시작하게 되었습니다.
+시스템이 유기적으로 맞물려 돌아가는 **시뮬레이션 게임**의 매력에 빠져 게임 개발의 길을 걷기 시작했습니다.  
+현재 **언리얼 엔진(Unreal Engine)**의 강력한 퍼포먼스와 정교한 시스템 설계 방법을 집중적으로 학습하고 있습니다.
 
-- 🌱 현재 **언리얼 엔진(Unreal Engine)**을 집중적으로 공부하고 있습니다.
-- 🕹️ 복잡하고 정교한 메커니즘을 가진 **시뮬레이션 게임 제작**이 목표입니다.
-- 💻 코드의 효율성과 논리적인 시스템 설계를 고민합니다.
+- 🌱 **Learning:** Unreal Engine 5 & C++
+- 🕹️ **Goal:** 정교한 메커니즘을 갖춘 몰입감 넘치는 시뮬레이션 게임 제작
+- 💻 **Focus:** 논리적인 시스템 아키텍처 및 게임 로직 구현
 
 ---
 
@@ -24,21 +24,22 @@
 
 ---
 
-## 🎯 My Goals
-- [ ] Unreal Engine C++ 프로그래밍 숙달
-- [ ] 자체 시뮬레이션 시스템 프로토타입 완성
-- [ ] 플레이어가 몰입할 수 있는 정교한 월드 설계
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_깃허브_아이디&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sws1011-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sws1011-dev&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contact
-- **Email:** `본인의 이메일 주소`
-- **Blog:** [블로그 주소가 있다면 링크]
+## 📫 Contact & Channels
+협업 제안이나 게임 개발에 대한 이야기는 언제든 환영합니다!
+
+* **Email** : <a href="mailto:sws1011.dev@gmail.com"><img src="https://img.shields.io/badge/sws1011.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sws1011.dev@gmail.com"></a>
+* **Notion (TIL)** : <a href="http://political-art-ce7.notion.site/TIL-341207996248807b87bbf1e246603590?pvs=74"><img src="https://img.shields.io/badge/Today I Learned-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+* **GitHub** : <a href="https://github.com/sws1011-dev"><img src="https://img.shields.io/badge/sws1011--dev-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+
+---
+<div align="center">
+  "현실보다 더 정교한 가상 세계를 꿈꿉니다."
+</div>
